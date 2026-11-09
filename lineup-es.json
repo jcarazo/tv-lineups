@@ -105,20 +105,11 @@
       "keywords": [
         "MOVISTAR PLUS",
         "M+ PLUS",
-        "MOVISTAR+",
-        "M+"
+        "MOVISTAR+"
       ],
       "epg_ids": [
-        "Movistar.Acción.es",
-        "Movistar.Cine.Español.es",
-        "Movistar.Comedia.es",
-        "Movistar.Deportes.es",
-        "Movistar.Golf.es",
-        "Movistar.Plus+.es",
-        "Movistar.Plus.es",
-        "Movistar.Series.es",
-        "MovistarPlus.es",
-        "Star.es"
+        "Movistar Plus+ HD",
+        "MovistarPlus.es"
       ],
       "category": "Pay"
     },
@@ -165,11 +156,8 @@
         "CINE POR MOVISTAR"
       ],
       "epg_ids": [
-        "BOM.Cine.es",
         "CineM.es",
-        "M+.Cine.Español.es",
-        "MPlusCine.es",
-        "Star.es"
+        "MPlusCine.es"
       ],
       "category": "Pay"
     },
@@ -193,10 +181,12 @@
       "logo": "https://www.formulatv.com/images/cadenas/logo_documentales-por-movistar-plus.svg",
       "keywords": [
         "DOCUMENTALES POR M",
-        "M+ DOCS"
+        "M+ DOCS",
+        "M+ DOCUMENTALES"
       ],
       "epg_ids": [
-        "DocsM.es"
+        "DocsM.es",
+        "M+ Documentales HD"
       ],
       "category": "Pay"
     },
@@ -249,7 +239,6 @@
         "M+ DRAMA"
       ],
       "epg_ids": [
-        "AM.es",
         "DramaM.es",
         "M+.Drama.es"
       ],
@@ -486,7 +475,6 @@
         "M+ LALIGA"
       ],
       "epg_ids": [
-        "ATV.es",
         "LaLigaM.es",
         "M+.LALIGA.TV.UHD.es",
         "M+.LALIGA.TV.es"
@@ -558,11 +546,12 @@
       "logo": "https://www.formulatv.com/images/cadenas/logo_ellas-vamos-por-movistar-plus.svg",
       "keywords": [
         "ELLAS VAMOS",
-        "VAMOS ELLAS"
+        "VAMOS ELLAS",
+        "M+ ELLAS"
       ],
       "epg_ids": [
-        "AM.es",
-        "EllasVamos.es"
+        "EllasVamos.es",
+        "M+ Ellas Vamos HD"
       ],
       "category": "Sports"
     },
