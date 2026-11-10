@@ -8,5 +8,5 @@ services:
       LOGO_CHECK_CRON: "0 3 * * *"
     volumes:
       - ./data:/data # SQLite database
-      - ./:/export # exported lineup-<cc>-<slug>.json files land in this repo
+      - ./lineups:/export # exported lineup-<cc>-<slug>.json files
     restart: unless-stopped

@@ -54,7 +54,7 @@ export function buildLineupJson(
   };
 }
 
-/** 2-space indent, unescaped UTF-8, no trailing newline (matches lineup-es.json). */
+/** 2-space indent, unescaped UTF-8, no trailing newline (matches the legacy lineup-es.json). */
 export function serializeLineup(file: LineupJson): string {
   return JSON.stringify(file, null, 2);
 }

@@ -5,7 +5,7 @@ import { buildLineupJson, lineupFileName, serializeLineup, sharedEpgIds } from "
 import { channelInputSchema, channelIssues, normalizeKeywords, slugify } from "@/lib/domain/validation";
 import { looksLikeSvg } from "@/lib/logo/check";
 
-const legacy = fs.readFileSync(path.join(__dirname, "../lineup-es.json"), "utf8");
+const legacy = fs.readFileSync(path.join(__dirname, "fixtures/lineup-es.json"), "utf8");
 
 describe("normalization", () => {
   it("uppercases, trims and de-duplicates keywords", () => {

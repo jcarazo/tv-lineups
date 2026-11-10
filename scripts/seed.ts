@@ -1,5 +1,5 @@
 /**
- * Imports lineup-es.json as the "Spain Legacy" lineup (file lineup-es-legacy.json).
+ * Imports the legacy Spain lineup (tests/fixtures/lineup-es.json) as "Spain Legacy" (file lineup-es-legacy.json).
  * Safe to re-run: does nothing if that lineup already exists.
  *
  *   npm run seed [-- path/to/lineup.json]
@@ -12,7 +12,7 @@ import { getLineupBySlug } from "../lib/data/lineups";
 import { checkChannelLogos } from "../lib/logo/service";
 
 async function main() {
-  const source = path.resolve(process.argv[2] ?? "lineup-es.json");
+  const source = path.resolve(process.argv[2] ?? "tests/fixtures/lineup-es.json");
   const db = openDatabase(process.env.DATABASE_URL ?? path.join(process.cwd(), "data/app.db"));
   const file = parseImportFile(fs.readFileSync(source, "utf8"));
 

@@ -13,7 +13,7 @@ import { addEntries, createLineup, duplicateLineup, listEntries, listLineups, up
 import { suggestDials } from "@/lib/domain/dials";
 import { channelInputSchema } from "@/lib/domain/validation";
 
-const legacyText = fs.readFileSync(path.join(__dirname, "../lineup-es.json"), "utf8");
+const legacyText = fs.readFileSync(path.join(__dirname, "fixtures/lineup-es.json"), "utf8");
 let db: DB;
 
 beforeEach(() => {

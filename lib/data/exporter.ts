@@ -5,8 +5,9 @@ import { buildLineupJson, lineupFileName, serializeLineup } from "../domain/expo
 import { DomainError } from "./errors";
 import { getLineup, lineupWarnings, listEntries } from "./lineups";
 
+/** Defaults to the repo's lineups/ folder; Docker mounts it at /export. */
 export function exportDir(): string {
-  return process.env.EXPORT_DIR ?? process.cwd();
+  return process.env.EXPORT_DIR ?? path.join(process.cwd(), "lineups");
 }
 
 export interface ExportPreview {
