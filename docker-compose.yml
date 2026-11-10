@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      # Daily logo re-check at 03:00 (container time). Set to "off" to disable.
+      LOGO_CHECK_CRON: "0 3 * * *"
+    volumes:
+      - ./data:/data # SQLite database
+      - ./:/export # exported lineup-<cc>-<slug>.json files land in this repo
+    restart: unless-stopped

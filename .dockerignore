@@ -1,0 +1,7 @@
+node_modules
+.next
+.git
+data
+.playwright-mcp
+*.json.bak
+lineup-*.json
