@@ -1,0 +1,849 @@
+{
+  "format": "channels",
+  "version": 1,
+  "country": "SE",
+  "channels": [
+    {
+      "name": "SVT1",
+      "keywords": [
+        "SVT1",
+        "SVT 1",
+        "SVERIGES TELEVISION 1"
+      ],
+      "epg_ids": [
+        "SVT1.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "SVT2",
+      "keywords": [
+        "SVT2",
+        "SVT 2"
+      ],
+      "epg_ids": [
+        "SVT2.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV3",
+      "keywords": [
+        "TV3",
+        "TV 3"
+      ],
+      "epg_ids": [
+        "TV3.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV4",
+      "keywords": [
+        "TV4",
+        "TV 4"
+      ],
+      "epg_ids": [
+        "TV4.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Kanal 5",
+      "keywords": [
+        "KANAL 5",
+        "KANAL5"
+      ],
+      "epg_ids": [
+        "KANAL.5.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV6",
+      "keywords": [
+        "TV6",
+        "TV 6"
+      ],
+      "epg_ids": [
+        "TV6.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Sjuan",
+      "keywords": [
+        "SJUAN",
+        "TV4 SJUAN",
+        "TV 4 SJUAN"
+      ],
+      "epg_ids": [
+        "Sjuan.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV8",
+      "keywords": [
+        "TV8",
+        "TV 8"
+      ],
+      "epg_ids": [
+        "TV8.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Kanal 9",
+      "keywords": [
+        "KANAL 9",
+        "KANAL9"
+      ],
+      "epg_ids": [
+        "Kanal.9.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV10",
+      "keywords": [
+        "TV10",
+        "TV 10"
+      ],
+      "epg_ids": [
+        "TV10.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Kanal 11",
+      "keywords": [
+        "KANAL 11",
+        "KANAL11"
+      ],
+      "epg_ids": [
+        "Kanal.11.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV12",
+      "keywords": [
+        "TV12",
+        "TV 12"
+      ],
+      "epg_ids": [
+        "TV12.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Viaplay Sport",
+      "keywords": [
+        "VIAPLAY SPORT"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V crime",
+      "keywords": [
+        "V CRIME"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "TV4 Film",
+      "keywords": [
+        "TV4 FILM",
+        "TV 4 FILM"
+      ],
+      "epg_ids": [
+        "TV4.Film.se"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "TV4 Guld",
+      "keywords": [
+        "TV4 GULD",
+        "TV 4 GULD"
+      ],
+      "epg_ids": [
+        "TV4.Guld.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "TLC",
+      "keywords": [
+        "TLC"
+      ],
+      "epg_ids": [
+        "TLC.HD.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "BBC Nordic",
+      "keywords": [
+        "BBC NORDIC"
+      ],
+      "epg_ids": [
+        "BBC.Nordic.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "ATG Live",
+      "keywords": [
+        "ATG LIVE"
+      ],
+      "epg_ids": [
+        "ATG.Live.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "Köket",
+      "keywords": [
+        "KÖKET",
+        "KOKET",
+        "KÖKET TV",
+        "KOKET TV"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "Horse & Country",
+      "keywords": [
+        "HORSE & COUNTRY",
+        "HORSE AND COUNTRY",
+        "H&C"
+      ],
+      "epg_ids": [
+        "Horse.&.Country.TV.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "MTV",
+      "keywords": [
+        "MTV",
+        "MTV SVERIGE"
+      ],
+      "epg_ids": [
+        "MTV.HD.se"
+      ],
+      "category": "Music"
+    },
+    {
+      "name": "Mezzo Live",
+      "keywords": [
+        "MEZZO LIVE",
+        "MEZZO LIVE HD"
+      ],
+      "epg_ids": [
+        "Mezzo.Live.se"
+      ],
+      "category": "Music"
+    },
+    {
+      "name": "TV4 Fakta",
+      "keywords": [
+        "TV4 FAKTA",
+        "TV 4 FAKTA"
+      ],
+      "epg_ids": [
+        "TV4.Fakta.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Kunskapskanalen",
+      "keywords": [
+        "KUNSKAPSKANALEN"
+      ],
+      "epg_ids": [
+        "Kunskapskanalen.HD.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Discovery Channel",
+      "keywords": [
+        "DISCOVERY CHANNEL",
+        "DISCOVERY"
+      ],
+      "epg_ids": [
+        "Discovery.Channel.HD.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "National Geographic",
+      "keywords": [
+        "NATIONAL GEOGRAPHIC",
+        "NAT GEO",
+        "NATGEO"
+      ],
+      "epg_ids": [
+        "National.Geographic.HD.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "History",
+      "keywords": [
+        "HISTORY",
+        "HISTORY CHANNEL"
+      ],
+      "epg_ids": [
+        "History.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "History 2",
+      "keywords": [
+        "HISTORY 2",
+        "H2",
+        "H 2"
+      ],
+      "epg_ids": [
+        "H2.HD.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Viasat History",
+      "keywords": [
+        "VIASAT HISTORY"
+      ],
+      "epg_ids": [
+        "Viasat.History.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Viasat Explore",
+      "keywords": [
+        "VIASAT EXPLORE"
+      ],
+      "epg_ids": [
+        "Viasat.Explore.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Viasat Nature",
+      "keywords": [
+        "VIASAT NATURE"
+      ],
+      "epg_ids": [
+        "Viasat.Nature.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Axess TV",
+      "keywords": [
+        "AXESS TV",
+        "AXESS"
+      ],
+      "epg_ids": [
+        "Axess.TV.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "Investigation Discovery",
+      "keywords": [
+        "INVESTIGATION DISCOVERY",
+        "ID",
+        "ID INVESTIGATION DISCOVERY"
+      ],
+      "epg_ids": [
+        "ID.se"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Love Nature",
+      "keywords": [
+        "LOVE NATURE"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "SVT Barn",
+      "keywords": [
+        "SVT BARN",
+        "SVTB",
+        "BARNKANALEN"
+      ],
+      "epg_ids": [
+        "SVTB/SVT24.HD.se"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "Nick Jr.",
+      "keywords": [
+        "NICK JR",
+        "NICKJR"
+      ],
+      "epg_ids": [
+        "Nick.Jr..HD.se"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "Moonbug",
+      "keywords": [
+        "MOONBUG",
+        "MOONBUG KIDS"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "Nickelodeon",
+      "keywords": [
+        "NICKELODEON",
+        "NICK"
+      ],
+      "epg_ids": [
+        "Nickelodeon.HD.se"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "Cartoon Network",
+      "keywords": [
+        "CARTOON NETWORK"
+      ],
+      "epg_ids": [
+        "Cartoon.Network.se"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "Nicktoons",
+      "keywords": [
+        "NICKTOONS"
+      ],
+      "epg_ids": [
+        "Nicktoons.se"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "V film premiere",
+      "keywords": [
+        "V FILM PREMIERE",
+        "V FILM PREMIÄR",
+        "V FILM PREMIAR",
+        "VIASAT FILM PREMIERE"
+      ],
+      "epg_ids": [
+        "V.Film.Premiere.HD.se"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "V film action",
+      "keywords": [
+        "V FILM ACTION",
+        "VIASAT FILM ACTION"
+      ],
+      "epg_ids": [
+        "V.Film.Action.HD.se"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "V film hits",
+      "keywords": [
+        "V FILM HITS",
+        "VIASAT FILM HITS"
+      ],
+      "epg_ids": [
+        "V.Film.Hits.HD.se"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "V film family",
+      "keywords": [
+        "V FILM FAMILY",
+        "VIASAT FILM FAMILY"
+      ],
+      "epg_ids": [
+        "V.Film.Family.se"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "V series",
+      "keywords": [
+        "V SERIES",
+        "VIASAT SERIES"
+      ],
+      "epg_ids": [
+        "V.Series.HD.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "V classics",
+      "keywords": [
+        "V CLASSICS",
+        "V FILM CLASSICS"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "SkyShowtime 1",
+      "keywords": [
+        "SKYSHOWTIME 1",
+        "SKYSHOWTIME"
+      ],
+      "epg_ids": [
+        "SkyShowtime.1.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "SkyShowtime 2",
+      "keywords": [
+        "SKYSHOWTIME 2"
+      ],
+      "epg_ids": [
+        "SkyShowtime.2.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "TV4 Hits",
+      "keywords": [
+        "TV4 HITS",
+        "TV 4 HITS"
+      ],
+      "epg_ids": [
+        "TV4.Hits.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "TV4 Stars",
+      "keywords": [
+        "TV4 STARS",
+        "TV 4 STARS"
+      ],
+      "epg_ids": [
+        "TV4.Stars.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "SF-kanalen",
+      "keywords": [
+        "SF-KANALEN",
+        "SF KANALEN",
+        "SFKANALEN"
+      ],
+      "epg_ids": [
+        "SF.Kanalen.se"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "SVT24",
+      "keywords": [
+        "SVT24",
+        "SVT 24"
+      ],
+      "epg_ids": [
+        "SVTB/SVT24.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "V sport 1",
+      "keywords": [
+        "V SPORT 1",
+        "VIAPLAY SPORT 1",
+        "V SPORT1"
+      ],
+      "epg_ids": [
+        "V.Sport.1.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport extra",
+      "keywords": [
+        "V SPORT EXTRA"
+      ],
+      "epg_ids": [
+        "V.Sport.Extra.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport premium",
+      "keywords": [
+        "V SPORT PREMIUM"
+      ],
+      "epg_ids": [
+        "V.Sport.Premium.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport football",
+      "keywords": [
+        "V SPORT FOOTBALL",
+        "V SPORT FOTBOLL"
+      ],
+      "epg_ids": [
+        "V.Sport.Fotboll.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport vinter",
+      "keywords": [
+        "V SPORT VINTER"
+      ],
+      "epg_ids": [
+        "V.Sport.Vinter.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport motor",
+      "keywords": [
+        "V SPORT MOTOR"
+      ],
+      "epg_ids": [
+        "V.Sport.Motor.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport golf",
+      "keywords": [
+        "V SPORT GOLF"
+      ],
+      "epg_ids": [
+        "V.Sport.Golf.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport ultra",
+      "keywords": [
+        "V SPORT ULTRA",
+        "V SPORT ULTRA HD",
+        "V SPORT 4K"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport live 1",
+      "keywords": [
+        "V SPORT LIVE 1",
+        "V SPORT LIVE1"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport live 2",
+      "keywords": [
+        "V SPORT LIVE 2",
+        "V SPORT LIVE2"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport live 3",
+      "keywords": [
+        "V SPORT LIVE 3",
+        "V SPORT LIVE3"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport live 4",
+      "keywords": [
+        "V SPORT LIVE 4",
+        "V SPORT LIVE4"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "V sport live 5",
+      "keywords": [
+        "V SPORT LIVE 5",
+        "V SPORT LIVE5"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Sportkanalen",
+      "keywords": [
+        "TV4 SPORTKANALEN",
+        "TV 4 SPORTKANALEN",
+        "TV4 SPORT",
+        "TV 4 SPORT"
+      ],
+      "epg_ids": [
+        "TV4.Sportkanalen.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Hockey",
+      "keywords": [
+        "TV4 HOCKEY",
+        "TV 4 HOCKEY"
+      ],
+      "epg_ids": [
+        "TV4.Hockey.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Fotboll",
+      "keywords": [
+        "TV4 FOTBOLL",
+        "TV 4 FOTBOLL",
+        "TV4 FOOTBALL",
+        "TV 4 FOOTBALL"
+      ],
+      "epg_ids": [
+        "TV4.Fotboll.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Motor",
+      "keywords": [
+        "TV4 MOTOR",
+        "TV 4 MOTOR"
+      ],
+      "epg_ids": [
+        "TV4.Motor.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Tennis",
+      "keywords": [
+        "TV4 TENNIS",
+        "TV 4 TENNIS"
+      ],
+      "epg_ids": [
+        "TV4.Tennis.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Sport Live 1",
+      "keywords": [
+        "TV4 SPORT LIVE 1",
+        "TV 4 SPORT LIVE 1",
+        "TV4 SPORT LIVE1"
+      ],
+      "epg_ids": [
+        "TV4.Sport.Live.1.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Sport Live 2",
+      "keywords": [
+        "TV4 SPORT LIVE 2",
+        "TV 4 SPORT LIVE 2",
+        "TV4 SPORT LIVE2"
+      ],
+      "epg_ids": [
+        "TV4.Sport.Live.2.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Sport Live 3",
+      "keywords": [
+        "TV4 SPORT LIVE 3",
+        "TV 4 SPORT LIVE 3",
+        "TV4 SPORT LIVE3"
+      ],
+      "epg_ids": [
+        "TV4.Sport.Live.3.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "TV4 Sport Live 4",
+      "keywords": [
+        "TV4 SPORT LIVE 4",
+        "TV 4 SPORT LIVE 4",
+        "TV4 SPORT LIVE4"
+      ],
+      "epg_ids": [
+        "TV4.Sport.Live.4.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "Eurosport 1",
+      "keywords": [
+        "EUROSPORT 1",
+        "EUROSPORT"
+      ],
+      "epg_ids": [
+        "Eurosport.1.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "Eurosport 2",
+      "keywords": [
+        "EUROSPORT 2"
+      ],
+      "epg_ids": [
+        "Eurosport.2.HD.se"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "Kanal 10",
+      "keywords": [
+        "KANAL 10",
+        "KANAL 10 SVERIGE",
+        "KANAL10"
+      ],
+      "epg_ids": [
+        "Kanal.10.se"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "TV Vision Sverige",
+      "keywords": [
+        "TV VISION SVERIGE",
+        "TV VISION"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "Sverigekanalen",
+      "keywords": [
+        "SVERIGEKANALEN",
+        "SVERIGEKANALEN TV"
+      ],
+      "category": "Others"
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "format": "channels",
+  "version": 1,
+  "country": "CZ",
+  "channels": [
+    {
+      "name": "ČT1",
+      "keywords": [
+        "ČT1",
+        "CT 1",
+        "CT1",
+        "ČT 1",
+        "CESKA TELEVIZE 1"
+      ],
+      "epg_ids": [
+        "ČT1.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "ČT2",
+      "keywords": [
+        "ČT2",
+        "CT 2",
+        "CT2",
+        "ČT 2",
+        "CESKA TELEVIZE 2"
+      ],
+      "epg_ids": [
+        "ČT2.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "ČT24",
+      "keywords": [
+        "ČT24",
+        "CT 24",
+        "CT24",
+        "ČT 24",
+        "CESKA TELEVIZE 24"
+      ],
+      "epg_ids": [
+        "ČT24.cz"
+      ],
+      "category": "News"
+    },
+    {
+      "name": "ČT sport",
+      "keywords": [
+        "ČT SPORT",
+        "CT SPORT",
+        "CT4",
+        "CT 4",
+        "ČT4",
+        "ČT 4"
+      ],
+      "epg_ids": [
+        "ČT.sport.cz"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "ČT :D",
+      "keywords": [
+        "ČT :D",
+        "CT :D",
+        "CT D",
+        "CT:D",
+        "ČT:D",
+        "DECKO",
+        "ČT DÉČKO",
+        "CT DECKO"
+      ],
+      "epg_ids": [
+        "ČT.:D.cz"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "ČT art",
+      "keywords": [
+        "ČT ART",
+        "CT ART"
+      ],
+      "epg_ids": [
+        "ČT.art.cz"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "Prima",
+      "keywords": [
+        "PRIMA",
+        "PRIMA TV",
+        "FTV PRIMA"
+      ],
+      "epg_ids": [
+        "Prima.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Prima Love",
+      "keywords": [
+        "PRIMA LOVE"
+      ],
+      "epg_ids": [
+        "Prima.LOVE.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Prima ZOOM",
+      "keywords": [
+        "PRIMA ZOOM"
+      ],
+      "epg_ids": [
+        "Prima.ZOOM.cz"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Prima MAX",
+      "keywords": [
+        "PRIMA MAX"
+      ],
+      "epg_ids": [
+        "Prima.MAX.cz"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "Prima COOL",
+      "keywords": [
+        "PRIMA COOL"
+      ],
+      "epg_ids": [
+        "Prima.Cool.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Prima KRIMI",
+      "keywords": [
+        "PRIMA KRIMI"
+      ],
+      "epg_ids": [
+        "Prima.Krimi.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Prima STAR",
+      "keywords": [
+        "PRIMA STAR"
+      ],
+      "epg_ids": [
+        "Prima.Star.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Prima SHOW",
+      "keywords": [
+        "PRIMA SHOW"
+      ],
+      "epg_ids": [
+        "Prima.Show.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "CNN Prima News",
+      "keywords": [
+        "CNN PRIMA NEWS",
+        "CNN PRIMA"
+      ],
+      "epg_ids": [
+        "CNN.Prima.News.cz"
+      ],
+      "category": "News"
+    },
+    {
+      "name": "Retro Music TV",
+      "keywords": [
+        "RETRO MUSIC TV",
+        "RETRO MUSIC TELEVISION",
+        "RETRO"
+      ],
+      "epg_ids": [
+        "Retro.Music.cz"
+      ],
+      "category": "Music"
+    },
+    {
+      "name": "Óčko",
+      "keywords": [
+        "ÓČKO",
+        "OCKO",
+        "OCKO TV"
+      ],
+      "epg_ids": [
+        "Óčko.cz"
+      ],
+      "category": "Music"
+    },
+    {
+      "name": "Óčko STAR",
+      "keywords": [
+        "ÓČKO STAR",
+        "OCKO STAR",
+        "OCKO GOLD"
+      ],
+      "epg_ids": [
+        "Óčko.Star.cz"
+      ],
+      "category": "Music"
+    },
+    {
+      "name": "Nova",
+      "keywords": [
+        "NOVA",
+        "TV NOVA",
+        "NOVA TV"
+      ],
+      "epg_ids": [
+        "Nova.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Nova Cinema",
+      "keywords": [
+        "NOVA CINEMA"
+      ],
+      "epg_ids": [
+        "Nova.Cinema.cz"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "Nova Action",
+      "keywords": [
+        "NOVA ACTION"
+      ],
+      "epg_ids": [
+        "Nova.Action.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Nova Fun",
+      "keywords": [
+        "NOVA FUN"
+      ],
+      "epg_ids": [
+        "Nova.Fun.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Nova Krimi",
+      "keywords": [
+        "NOVA KRIMI"
+      ],
+      "epg_ids": [
+        "Nova.Krimi.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Nova Lady",
+      "keywords": [
+        "NOVA LADY"
+      ],
+      "epg_ids": [
+        "Nova.Lady.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV Noe",
+      "keywords": [
+        "TV NOE",
+        "NOE"
+      ],
+      "epg_ids": [
+        "Noe.cz"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "TV Barrandov",
+      "keywords": [
+        "TV BARRANDOV",
+        "BARRANDOV"
+      ],
+      "epg_ids": [
+        "Barrandov.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Kino Barrandov",
+      "keywords": [
+        "KINO BARRANDOV",
+        "BARRANDOV KINO"
+      ],
+      "epg_ids": [
+        "Barrandov.Kino.cz"
+      ],
+      "category": "Movies"
+    },
+    {
+      "name": "Barrandov Krimi",
+      "keywords": [
+        "BARRANDOV KRIMI",
+        "KRIMI BARRANDOV"
+      ],
+      "epg_ids": [
+        "Barrandov.Krimi.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "TV Seznam",
+      "keywords": [
+        "TV SEZNAM",
+        "SEZNAM",
+        "SEZNAM TV",
+        "TELEVIZE SEZNAM"
+      ],
+      "epg_ids": [
+        "Seznam.cz.TV.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Sporty TV",
+      "keywords": [
+        "SPORTY TV"
+      ],
+      "epg_ids": [
+        "Sporty.TV.cz"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "A11",
+      "keywords": [
+        "A11",
+        "A 11"
+      ],
+      "epg_ids": [
+        "A11.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Spektrum Home",
+      "keywords": [
+        "SPEKTRUM HOME"
+      ],
+      "epg_ids": [
+        "Spektrum.Home.cz"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "Warner TV",
+      "keywords": [
+        "WARNER TV"
+      ],
+      "epg_ids": [
+        "Warner.TV.cz"
+      ],
+      "category": "Others"
+    },
+    {
+      "name": "TraLaLa",
+      "keywords": [
+        "TRALALA",
+        "TRA LA LA"
+      ],
+      "category": "Kids"
+    },
+    {
+      "name": "JOJ Family",
+      "keywords": [
+        "JOJ FAMILY"
+      ],
+      "epg_ids": [
+        "JOJ.Family.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "CS Mystery",
+      "keywords": [
+        "CS MYSTERY"
+      ],
+      "epg_ids": [
+        "CS.Mystery.cz"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "name": "Relax",
+      "keywords": [
+        "RELAX",
+        "TV RELAX"
+      ],
+      "epg_ids": [
+        "RELAX.cz"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "name": "Rebel",
+      "keywords": [
+        "REBEL",
+        "TV REBEL"
+      ],
+      "epg_ids": [
+        "Rebel.cz"
+      ],
+      "category": "Music"
+    },
+    {
+      "name": "Šlágr Originál",
+      "keywords": [
+        "ŠLÁGR ORIGINÁL",
+        "SLAGR ORIGINAL",
+        "ŠLÁGER ORIGINÁL",
+        "SLAGER ORIGINAL"
+      ],
+      "epg_ids": [
+        "Šlágr.Originál.cz"
+      ],
+      "category": "Music"
+    },
+    {
+      "name": "Šlágr Muzika",
+      "keywords": [
+        "ŠLÁGR MUZIKA",
+        "SLAGR MUZIKA",
+        "ŠLÁGER MUZIKA",
+        "SLAGER MUZIKA"
+      ],
+      "epg_ids": [
+        "Šlágr.Muzika.cz"
+      ],
+      "category": "Music"
+    }
+  ]
+}
