@@ -1,0 +1,135 @@
+{
+  "format": "lineup",
+  "version": 1,
+  "country": "SE",
+  "name": "Allente",
+  "channels": [
+    {
+      "dial": 1,
+      "name": "SVT1",
+      "logo": "https://new.static.tv.nu/47578019",
+      "keywords": [
+        "SVT1",
+        "SVT 1",
+        "SVERIGES TELEVISION 1"
+      ],
+      "epg_ids": [
+        "SVT1.HD.se",
+        "SVT1.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 2,
+      "name": "SVT2",
+      "logo": "https://new.static.tv.nu/47578022",
+      "keywords": [
+        "SVT2",
+        "SVT 2"
+      ],
+      "epg_ids": [
+        "SVT2.HD.se",
+        "SVT2.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 3,
+      "name": "TV3",
+      "logo": "https://new.static.tv.nu/47578023",
+      "keywords": [
+        "TV3",
+        "TV 3"
+      ],
+      "epg_ids": [
+        "TV3.HD.se",
+        "TV3.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 4,
+      "name": "TV4",
+      "logo": "https://new.static.tv.nu/47578024",
+      "keywords": [
+        "TV4",
+        "TV 4"
+      ],
+      "epg_ids": [
+        "TV4.HD.se",
+        "TV4.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 5,
+      "name": "Kanal 5",
+      "logo": "https://new.static.tv.nu/252469598",
+      "keywords": [
+        "KANAL 5",
+        "KANAL5"
+      ],
+      "epg_ids": [
+        "KANAL.5.HD.se",
+        "KANAL5.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 6,
+      "name": "TV6",
+      "logo": "https://new.static.tv.nu/47578026",
+      "keywords": [
+        "TV6",
+        "TV 6"
+      ],
+      "epg_ids": [
+        "TV6.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 7,
+      "name": "Sjuan",
+      "logo": "https://new.static.tv.nu/47578027",
+      "keywords": [
+        "SJUAN",
+        "TV4 SJUAN",
+        "TV 4 SJUAN"
+      ],
+      "epg_ids": [
+        "Sjuan.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 8,
+      "name": "TV8",
+      "logo": "https://new.static.tv.nu/47578028",
+      "keywords": [
+        "TV8",
+        "TV 8"
+      ],
+      "epg_ids": [
+        "TV8.HD.se"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 9,
+      "name": "V sport 1",
+      "logo": "https://new.static.tv.nu/68084424",
+      "keywords": [
+        "V SPORT 1",
+        "VIAPLAY SPORT 1",
+        "V SPORT1"
+      ],
+      "epg_ids": [
+        "V.Sport.1.HD.se",
+        "V.Sport.1.se",
+        "V.Sport1.se"
+      ],
+      "category": "Sports"
+    }
+  ]
+}

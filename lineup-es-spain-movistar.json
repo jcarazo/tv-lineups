@@ -1,0 +1,903 @@
+{
+  "format": "lineup",
+  "version": 1,
+  "country": "ES",
+  "name": "Spain Movistar",
+  "channels": [
+    {
+      "dial": 1,
+      "name": "La 1",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_la1.svg",
+      "keywords": [
+        "LA 1",
+        "TVE 1",
+        "LA1",
+        "TVE1",
+        "LA PRIMERA"
+      ],
+      "epg_ids": [
+        "La.1.es",
+        "La1.es",
+        "TVE1.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 2,
+      "name": "La 2",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_la2.svg",
+      "keywords": [
+        "LA 2",
+        "TVE 2",
+        "LA2",
+        "TVE2",
+        "LA DOS"
+      ],
+      "epg_ids": [
+        "La.2.es",
+        "La2.es",
+        "TVE2.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 3,
+      "name": "Antena 3",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_antena3.svg",
+      "keywords": [
+        "ANTENA 3",
+        "A3",
+        "ANTENA3"
+      ],
+      "epg_ids": [
+        "Antena.3.es",
+        "Antena3.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 4,
+      "name": "Cuatro",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_cuatro.svg",
+      "keywords": [
+        "CUATRO",
+        "CUATRO TV"
+      ],
+      "epg_ids": [
+        "Cuatro.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 5,
+      "name": "Telecinco",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_telecinco.svg",
+      "keywords": [
+        "TELECINCO",
+        "T5",
+        "TELE 5"
+      ],
+      "epg_ids": [
+        "FDF.Telecinco.es",
+        "Telecinco.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 6,
+      "name": "laSexta",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_lasexta.svg",
+      "keywords": [
+        "LA SEXTA",
+        "SEXTA",
+        "LASEXTA"
+      ],
+      "epg_ids": [
+        "LaSexta.es",
+        "laSexta.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 7,
+      "name": "Movistar Plus+",
+      "logo": "https://www.movistarplus.es/recorte/m-DP/canal/MPLUS.png",
+      "keywords": [
+        "MOVISTAR PLUS",
+        "M+ PLUS",
+        "MOVISTAR+"
+      ],
+      "epg_ids": [
+        "Movistar Plus+ HD",
+        "MovistarPlus.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 8,
+      "name": "8",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_la-ocho-tv.svg",
+      "keywords": [
+        "LA OCHO",
+        "OCHO"
+      ],
+      "epg_ids": [
+        "La.8.es",
+        "ocho.es"
+      ],
+      "category": "Regional"
+    },
+    {
+      "dial": 9,
+      "name": "Telemadrid",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_telemadrid.svg",
+      "keywords": [
+        "TELEMADRID"
+      ],
+      "epg_ids": [
+        "Telemadrid.es"
+      ],
+      "category": "Regional"
+    },
+    {
+      "dial": 10,
+      "name": "La Otra",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_la-otra.svg",
+      "keywords": [
+        "LA OTRA"
+      ],
+      "epg_ids": [
+        "La.Otra.es",
+        "LaOtra.es"
+      ],
+      "category": "Regional"
+    },
+    {
+      "dial": 12,
+      "name": "Cine por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_cine-movistar-plus.svg",
+      "keywords": [
+        "CINE POR M",
+        "M+ CINE",
+        "CINE POR MOVISTAR"
+      ],
+      "epg_ids": [
+        "CineM.es",
+        "MPlusCine.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 14,
+      "name": "Originales por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_originales-movistar-plus.svg",
+      "keywords": [
+        "ORIGINALES POR M",
+        "M+ ORIGINALES"
+      ],
+      "epg_ids": [
+        "M+.Originales.es",
+        "OriginalesM.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 17,
+      "name": "Documentales por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_documentales-movistar-plus.svg",
+      "keywords": [
+        "DOCUMENTALES POR M",
+        "M+ DOCS",
+        "M+ DOCUMENTALES"
+      ],
+      "epg_ids": [
+        "DocsM.es",
+        "M+ Documentales HD"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "dial": 20,
+      "name": "Clásicos por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_clasicos-movistar-plus.svg",
+      "keywords": [
+        "CLASICOS POR M",
+        "M+ CLASICOS"
+      ],
+      "epg_ids": [
+        "ClasicosM.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 21,
+      "name": "Acción por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_accion-movistar-plus.svg",
+      "keywords": [
+        "ACCION POR M",
+        "M+ ACCION"
+      ],
+      "epg_ids": [
+        "AccionM.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 22,
+      "name": "Comedia por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_comedia-movistar-plus.svg",
+      "keywords": [
+        "COMEDIA POR M",
+        "M+ COMEDIA"
+      ],
+      "epg_ids": [
+        "ComediaM.es",
+        "M+.Comedia.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 23,
+      "name": "Drama por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_drama-movistar-plus.svg",
+      "keywords": [
+        "DRAMA POR M",
+        "M+ DRAMA"
+      ],
+      "epg_ids": [
+        "DramaM.es",
+        "M+.Drama.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 25,
+      "name": "Indie por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_indie-movistar-plus.svg",
+      "keywords": [
+        "INDIE POR M",
+        "M+ INDIE"
+      ],
+      "epg_ids": [
+        "IndieM.es",
+        "M+.Indie.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 26,
+      "name": "Cine Español por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_cine-espanol-movistar-plus.svg",
+      "keywords": [
+        "CINE ESPAÑOL POR M",
+        "M+ CINE ESPAÑOL"
+      ],
+      "epg_ids": [
+        "CineEspanolM.es",
+        "M+.Cine.Español.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 29,
+      "name": "SkyShowtime",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_skyshowtime.svg",
+      "keywords": [
+        "SKYSHOWTIME"
+      ],
+      "epg_ids": [
+        "SkyShowtime.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 30,
+      "name": "TCM",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_tcm.svg",
+      "keywords": [
+        "TCM"
+      ],
+      "epg_ids": [
+        "TCM.es"
+      ],
+      "category": "Movies"
+    },
+    {
+      "dial": 37,
+      "name": "BEMADtv",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_bemadtv.svg",
+      "keywords": [
+        "BEMAD",
+        "BE MAD"
+      ],
+      "epg_ids": [
+        "Be.Mad.es",
+        "BeMad.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 38,
+      "name": "FOX",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_fox-espana.svg",
+      "keywords": [
+        "FOX"
+      ],
+      "epg_ids": [
+        "FOX.es",
+        "FoxSpain.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 40,
+      "name": "Warner TV",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_warner-tv.svg",
+      "keywords": [
+        "WARNER TV",
+        "TNT"
+      ],
+      "epg_ids": [
+        "Warner.TV.es",
+        "WarnerTV.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 41,
+      "name": "Comedy Central",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_comedycentral.svg",
+      "keywords": [
+        "COMEDY CENTRAL"
+      ],
+      "epg_ids": [
+        "Comedy.Central.es",
+        "ComedyCentral.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 42,
+      "name": "Calle 13",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_calle13.svg",
+      "keywords": [
+        "CALLE 13"
+      ],
+      "epg_ids": [
+        "Calle.13.es",
+        "Calle13.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 43,
+      "name": "Cosmo",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_cosmopolitan.svg",
+      "keywords": [
+        "COSMO"
+      ],
+      "epg_ids": [
+        "Cosmo.es",
+        "Cosmopolitan.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 44,
+      "name": "SyFy",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_syfy.svg",
+      "keywords": [
+        "SYFY"
+      ],
+      "epg_ids": [
+        "Syfy.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 46,
+      "name": "AXN",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_axn.svg",
+      "keywords": [
+        "AXN"
+      ],
+      "epg_ids": [
+        "AXN.es"
+      ],
+      "category": "Others"
+    },
+    {
+      "dial": 47,
+      "name": "TRECE",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_13tv.svg",
+      "keywords": [
+        "TRECE",
+        "13 TV"
+      ],
+      "epg_ids": [
+        "13.TV.es",
+        "El.Trece.Internacional.es",
+        "TRECE.es",
+        "Trece.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 48,
+      "name": "Energy",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_energy.svg",
+      "keywords": [
+        "ENERGY"
+      ],
+      "epg_ids": [
+        "Energy.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 49,
+      "name": "FDF",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_fdf.svg",
+      "keywords": [
+        "FDF",
+        "FACTORIA"
+      ],
+      "epg_ids": [
+        "FDF.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 50,
+      "name": "Neox",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_neox.svg",
+      "keywords": [
+        "NEOX"
+      ],
+      "epg_ids": [
+        "Neox.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 51,
+      "name": "Atreseries",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_atreseries.svg",
+      "keywords": [
+        "ATRESERIES"
+      ],
+      "epg_ids": [
+        "Atreseries.Internacional.es",
+        "Atreseries.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 54,
+      "name": "LaLiga TV por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_movistar-laliga.svg",
+      "keywords": [
+        "LALIGA TV POR M",
+        "LALIGA TV",
+        "LIGA TV",
+        "MOVISTAR LA LIGA"
+      ],
+      "epg_ids": [
+        "LaLigaM.es",
+        "M+.LALIGA.TV.UHD.es",
+        "M+.LALIGA.TV.es",
+        "LaLiga+.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 55,
+      "name": "DAZN LaLiga",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_dazn-laliga.svg",
+      "keywords": [
+        "DAZN LALIGA"
+      ],
+      "epg_ids": [
+        "DAZN.LALIGA.es",
+        "DAZNLaLiga.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 56,
+      "name": "LaLiga TV Hypermotion",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_laliga-tv-hypermotion.svg",
+      "keywords": [
+        "HYPERMOTION",
+        "LALIGA HYPERMOTION"
+      ],
+      "epg_ids": [
+        "ATV.es",
+        "Hypermotion.es",
+        "LALIGA.TV.HYPERMOTION.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 60,
+      "name": "Liga de Campeones por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_liga-de-campeones-movistar-plus.svg",
+      "keywords": [
+        "LIGA DE CAMPEONES",
+        "M L CAMPEONES"
+      ],
+      "epg_ids": [
+        "ChampionsM.es",
+        "M+.Liga.de.Campeones.HDR.es",
+        "M+.Liga.de.Campeones.es",
+        "mligadecampeones.es",
+        "Movistar.Liga.de.Campeones.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 63,
+      "name": "Deportes por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_deportes-movistar-plus.svg",
+      "keywords": [
+        "DEPORTES POR M",
+        "M+ DEPORTES"
+      ],
+      "epg_ids": [
+        "DeportesM.es",
+        "M+.Deportes.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 66,
+      "name": "Ellas Vamos por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_movistar-ellas.svg",
+      "keywords": [
+        "ELLAS VAMOS",
+        "VAMOS ELLAS",
+        "MOVISTAR ELLAS"
+      ],
+      "epg_ids": [
+        "EllasVamos.es",
+        "M+ Ellas Vamos HD"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 67,
+      "name": "Golf por M+",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_golf-movistar-plus.svg",
+      "keywords": [
+        "GOLF POR M",
+        "M+ GOLF"
+      ],
+      "epg_ids": [
+        "GolfM.es",
+        "M+.Golf.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 69,
+      "name": "DAZN F1",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_dazn-f1.svg",
+      "keywords": [
+        "DAZN F1",
+        "F1"
+      ],
+      "epg_ids": [
+        "DAZN.F1.es",
+        "DAZNF1.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 70,
+      "name": "DAZN 1",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_dazn-1.svg",
+      "keywords": [
+        "DAZN 1"
+      ],
+      "epg_ids": [
+        "DAZN.1.es",
+        "DAZN1.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 71,
+      "name": "DAZN 2",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_dazn-2.svg",
+      "keywords": [
+        "DAZN 2"
+      ],
+      "epg_ids": [
+        "DAZN.2.es",
+        "DAZN2.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 72,
+      "name": "Eurosport 1",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_eurosport.svg",
+      "keywords": [
+        "EUROSPORT 1"
+      ],
+      "epg_ids": [
+        "Eurosport1.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 73,
+      "name": "Eurosport 2",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_eurosport-2.svg",
+      "keywords": [
+        "EUROSPORT 2"
+      ],
+      "epg_ids": [
+        "Eurosport.2.es",
+        "Eurosport2.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 74,
+      "name": "Gol Play",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_gol-television_m.png",
+      "keywords": [
+        "GOL PLAY",
+        "GOL TV"
+      ],
+      "epg_ids": [
+        "GOL.PLAY.es",
+        "Gol.TV.es",
+        "GolPlay.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 75,
+      "name": "Teledeporte",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_teledeporte.svg",
+      "keywords": [
+        "TELEDEPORTE",
+        "TDP"
+      ],
+      "epg_ids": [
+        "TDP.es",
+        "Teledeporte.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 76,
+      "name": "Real Madrid TV",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_real-madrid-tv.svg",
+      "keywords": [
+        "REAL MADRID TV"
+      ],
+      "epg_ids": [
+        "RMTV.es",
+        "Real.Madrid.TV.es"
+      ],
+      "category": "Sports"
+    },
+    {
+      "dial": 82,
+      "name": "National Geographic",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_national-geographic.svg",
+      "keywords": [
+        "NATIONAL GEOGRAPHIC",
+        "NAT GEO"
+      ],
+      "epg_ids": [
+        "NatGeo.es",
+        "National.Geographic.es"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "dial": 83,
+      "name": "Nat Geo Wild",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_nat-geo-wild.svg",
+      "keywords": [
+        "WILD",
+        "NAT GEO WILD"
+      ],
+      "epg_ids": [
+        "NatGeoWild.es",
+        "National.Geographic.Wild.HD.es"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "dial": 85,
+      "name": "Discovery Channel",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_discovery-channel.svg",
+      "keywords": [
+        "DISCOVERY CHANNEL",
+        "DISCOVERY"
+      ],
+      "epg_ids": [
+        "Discovery.Channel.es",
+        "Discovery.es"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "dial": 88,
+      "name": "Canal Cocina",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_canal-cocina.svg",
+      "keywords": [
+        "CANAL COCINA"
+      ],
+      "epg_ids": [
+        "Canal.Cocina.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 89,
+      "name": "DMAX",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_discoverymax.svg",
+      "keywords": [
+        "DMAX"
+      ],
+      "epg_ids": [
+        "DMAX.es"
+      ],
+      "category": "Documentaries"
+    },
+    {
+      "dial": 94,
+      "name": "DKiss",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_dkiss.svg",
+      "keywords": [
+        "DKISS"
+      ],
+      "epg_ids": [
+        "DKiss.es",
+        "Dkiss.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 95,
+      "name": "Divinity",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_divinity.svg",
+      "keywords": [
+        "DIVINITY"
+      ],
+      "epg_ids": [
+        "Divinity.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 96,
+      "name": "Nova",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_nova.svg",
+      "keywords": [
+        "NOVA"
+      ],
+      "epg_ids": [
+        "Nova.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 97,
+      "name": "Mega",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_mega-espana.svg",
+      "keywords": [
+        "MEGA"
+      ],
+      "epg_ids": [
+        "Mega.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 98,
+      "name": "Ten",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_ten.svg",
+      "keywords": [
+        "TEN"
+      ],
+      "epg_ids": [
+        "Ten.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 117,
+      "name": "Boing",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_boing.svg",
+      "keywords": [
+        "BOING"
+      ],
+      "epg_ids": [
+        "Boing.es"
+      ],
+      "category": "Kids"
+    },
+    {
+      "dial": 118,
+      "name": "Clan",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_clan.svg",
+      "keywords": [
+        "CLAN"
+      ],
+      "epg_ids": [
+        "Clan.es"
+      ],
+      "category": "Kids"
+    },
+    {
+      "dial": 120,
+      "name": "MTV",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_mtv-espana.svg",
+      "keywords": [
+        "MTV"
+      ],
+      "epg_ids": [
+        "MTV.es"
+      ],
+      "category": "Music"
+    },
+    {
+      "dial": 127,
+      "name": "Canal 24 Horas",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_canal24horas.svg",
+      "keywords": [
+        "24H",
+        "24 HORAS"
+      ],
+      "epg_ids": [
+        "24H.es"
+      ],
+      "category": "News"
+    },
+    {
+      "dial": 139,
+      "name": "El Toro TV",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_el-toro-tv.svg",
+      "keywords": [
+        "EL TORO TV"
+      ],
+      "epg_ids": [
+        "El.Toro.TV.es",
+        "ElToro.es"
+      ],
+      "category": "Generalist"
+    },
+    {
+      "dial": 154,
+      "name": "TV3",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_tv3.svg",
+      "keywords": [
+        "TV3"
+      ],
+      "epg_ids": [
+        "TV3.es"
+      ],
+      "category": "Regional"
+    },
+    {
+      "dial": 164,
+      "name": "Esport3",
+      "logo": "https://www.formulatv.com/images/cadenas/logo_esport3.svg",
+      "keywords": [
+        "ESPORT3"
+      ],
+      "epg_ids": [
+        "Esport.3.es",
+        "Esport3.es"
+      ],
+      "category": "Regional"
+    }
+  ]
+}
